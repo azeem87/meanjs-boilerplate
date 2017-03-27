@@ -1,8 +1,5 @@
-Author : Mohamed Azeem
-Email  : azeem.fx@gmail.com
 
-About This Application : Learn Technology By Viewing Each Cards
-
+<h2> Mean JS Boiler Plate <h2>
 
 #######  To Build  ########
 $ grunt build 
