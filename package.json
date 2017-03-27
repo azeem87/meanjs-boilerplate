@@ -1,13 +1,13 @@
 {
-  "name": "LearnTechByCards",
-  "description": "Learn Technology By Viewing Each Cards",
+  "name": "MeanJs Boiler Plate",
+  "description": "MeanJs Boiler Plate",
   "version": "0.4.0",
-  "private": true,
+  "private": false,
   "author": "Mohamed Azeem B, azeem.fx@gmail.com",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/azeem87/LearnTechByCards.git"
+    "url": "https://github.com/azeem87/meanjs-boilerplate.git"
   },
   "engines": {
     "node": ">=0.10.28",
