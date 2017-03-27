@@ -1,5 +1,5 @@
 
-<h2> Mean JS Boiler Plate <h2>
+<h2> Mean JS Boiler Plate </h2>
 
 #######  To Build  ########
 $ grunt build 
